@@ -1,0 +1,10 @@
+bin
+include
+lib
+lib64
+share
+*.o
+*.so
+*.dll
+*.exe
+pyvenv.cfg
